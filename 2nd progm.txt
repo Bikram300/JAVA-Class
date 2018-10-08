@@ -1,0 +1,10 @@
+ackage hello;
+
+public class Hacker {
+
+	public static void main(String[] args) {
+            int total = 300
+		System.out.println("Hacker");
+                   System.out.println("value = "+total);
+}
+  }
